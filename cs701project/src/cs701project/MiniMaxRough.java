@@ -10,6 +10,7 @@ public class MiniMaxRough {
 	int branchFactor;
 	int maxBranch;
 	int x;
+	int test;
 	
 	public MiniMaxRough(int[] weights, int[][] winSetsIn, int[][]winMapsIn, int[][] winPosMapsIn) {
 		winSets = winSetsIn;
